@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and psychology.
 - 🌱 I’m currently learning Python adn JavaScript
 - 💞️ I’m looking to collaborate on a Python project
-- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
+- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 

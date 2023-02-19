@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Connect with me:
+<a href="https://www.linkedin.com/in/dominika-gorgosz/"><img align="left" alt="dominika-gorgosz | linkedIn" width="22px" style="--color_fill: #3460;" src="https://github.com/domgor11/domgor11/blob/main/images/linked_icon.svg"/></a>
+
 
 
 ## Technical Skills

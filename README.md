@@ -8,7 +8,7 @@
 </br>
 
 ## Hi, I'm Dom 👋🏻
-I'm a backend engineer with a Psychology with Criminology degree. Although I come from a non-technical background, I have developed a passion for programming and software engineering. When I'm not coding, I enjoy reading books and traveling to new places. I'm also interested in investigative journalism and follow the latest developments in the field. I'm currently expanding my skills in machine learning and cyber security, and always looking to learn more.
+I'm a backend engineer with a Psychology with Criminology degree. Although I come from a non-technical background, I have developed a passion for programming and software engineering. When I'm not coding, I enjoy reading books and traveling. I'm also interested in investigative journalism and follow the latest developments in the field. I'm currently expanding my skills in machine learning and cyber security, and always looking to learn more.
 
 ## Languages, Frameworks & Tools
 <img align="left" alt="typescript" width="22px" src="./images/typescript_icon.svg"/>

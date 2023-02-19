@@ -1,5 +1,6 @@
-### Hi I'm Dom 👋
-
+<p align=”center”>
+  <img src="https://github.com/domgor11/domgor11/blob/main/background_image.png" alt="my_banner">
+</p>
 <!--
 **domgor11/domgor11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![snake gif](https://github.com/domgor11/domgor11/blob/output/github-contribution-grid-snake.svg)

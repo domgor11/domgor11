@@ -9,6 +9,8 @@
 
 ## Hi, I'm Dom 👋🏻
 I'm a backend engineer with a Psychology with Criminology degree. Although I come from a non-technical background, I have developed a passion for programming and software engineering. When I'm not coding, I enjoy reading books and traveling. I'm also interested in investigative journalism and follow the latest developments in the field. I'm currently expanding my skills in machine learning and cyber security, and always looking to learn more.
+</br>
+I am currently developing a machine learning model that aims to identify users on dark web forums by analyzing their semantic structures, and cross-referencing them with the structures of users on subreddits.
 
 ## Languages, Frameworks & Tools
 <img align="left" alt="typescript" width="22px" src="./images/typescript_icon.svg"/>

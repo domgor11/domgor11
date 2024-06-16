@@ -8,9 +8,9 @@
 </br>
 
 ## Hi, I'm Dom 👋🏻
-I'm a backend engineer with a Psychology with Criminology degree. Although I come from a non-technical background, I have developed a passion for programming and software engineering. When I'm not coding, I enjoy reading books and traveling. I'm also interested in investigative journalism and follow the latest developments in the field. I'm currently expanding my skills in machine learning and cyber security, and always looking to learn more.
+I am a Back-end Software Engineer, focused on building services with AWS. I am currently pursuing a degree in MSc Health Data Science, which allows me to combine my technical expertise with my passion for healthcare.
 </br>
-I am currently developing a machine learning model that aims to identify users on dark web forums by analyzing their semantic structures, and cross-referencing them with the structures of users on subreddits.
+My research area of interest is depression risk prediction, where I aim to leverage machine learning and data analytics to develop predictive models that can identify individuals at risk of depression. Through my studies and professional experience, I have gained proficiency in cloud computing, data processing, and algorithm development, all of which contribute to my goal of improving mental health outcomes through innovative technological solutions.
 
 ## Languages, Frameworks & Tools
 <img align="left" alt="typescript" width="22px" src="./images/typescript_icon.svg"/>

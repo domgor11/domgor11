@@ -10,7 +10,7 @@
 ## Hi, I'm Dom 👋🏻
 I am a Back-end Software Engineer, focused on building services with AWS. I am currently pursuing a degree in MSc Health Data Science, which allows me to combine my technical expertise with my passion for healthcare.
 </br>
-My research area of interest is depression risk prediction, where I aim to leverage machine learning and data analytics to develop predictive models that can identify individuals at risk of depression. Through my studies and professional experience, I have gained proficiency in cloud computing, data processing, and algorithm development, all of which contribute to my goal of improving mental health outcomes through innovative technological solutions.
+ Through my studies and professional experience, I have gained proficiency in cloud computing, data processing, and algorithm development, all of which contribute to my goal of improving health outcomes through innovative technological solutions.
 
 ## Languages, Frameworks & Tools
 <img align="left" alt="typescript" width="22px" src="./images/typescript_icon.svg"/>

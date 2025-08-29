@@ -8,7 +8,11 @@
 </br>
 
 ## Hi, I'm Dom 👋🏻
-I am a Back-end Software Engineer, focused on building services with AWS. I am currently pursuing a degree in MSc Health Data Science, which allows me to combine my technical expertise with my passion for healthcare.
+
+I am a Back-end Software Engineer specializing in AWS, with a MSc in Health Data Science. My work is driven by a mission to build innovative technological solutions that generate tangible improvements in health outcomes.
 </br>
- Through my studies and professional experience, I have gained proficiency in cloud computing, data processing, and algorithm development, all of which contribute to my goal of improving health outcomes through innovative technological solutions.
+My current research is focused on creating advanced computational models for personalized medicine. This involves applying machine learning to multi-omics data (metabolomics and microbiome) to identify novel subtypes of Inflammatory Bowel Disease (IBD). As part of this broader agenda, I am also exploring the potential of Digital Twins to revolutionize patient care and investigating the future impact of Quantum Computing on multi-omics analysis, a field I see as the next frontier in medicine.
+</br>
+
+
 
